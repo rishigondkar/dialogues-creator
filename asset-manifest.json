@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/dialogues-creator/static/css/main.ebb4556e.chunk.css",
-    "main.js": "/dialogues-creator/static/js/main.d2f79171.chunk.js",
-    "main.js.map": "/dialogues-creator/static/js/main.d2f79171.chunk.js.map",
+    "main.js": "/dialogues-creator/static/js/main.7fc87ce8.chunk.js",
+    "main.js.map": "/dialogues-creator/static/js/main.7fc87ce8.chunk.js.map",
     "runtime-main.js": "/dialogues-creator/static/js/runtime-main.c4fc1ef8.js",
     "runtime-main.js.map": "/dialogues-creator/static/js/runtime-main.c4fc1ef8.js.map",
-    "static/js/2.d56068b6.chunk.js": "/dialogues-creator/static/js/2.d56068b6.chunk.js",
-    "static/js/2.d56068b6.chunk.js.map": "/dialogues-creator/static/js/2.d56068b6.chunk.js.map",
+    "static/js/2.79e2c193.chunk.js": "/dialogues-creator/static/js/2.79e2c193.chunk.js",
+    "static/js/2.79e2c193.chunk.js.map": "/dialogues-creator/static/js/2.79e2c193.chunk.js.map",
     "index.html": "/dialogues-creator/index.html",
-    "precache-manifest.69a95f4279a56984f668e64fe2e103ae.js": "/dialogues-creator/precache-manifest.69a95f4279a56984f668e64fe2e103ae.js",
+    "precache-manifest.4d9b03895b2fc7d7c81772c2b832d8e6.js": "/dialogues-creator/precache-manifest.4d9b03895b2fc7d7c81772c2b832d8e6.js",
     "service-worker.js": "/dialogues-creator/service-worker.js",
     "static/css/main.ebb4556e.chunk.css.map": "/dialogues-creator/static/css/main.ebb4556e.chunk.css.map",
-    "static/js/2.d56068b6.chunk.js.LICENSE.txt": "/dialogues-creator/static/js/2.d56068b6.chunk.js.LICENSE.txt",
+    "static/js/2.79e2c193.chunk.js.LICENSE.txt": "/dialogues-creator/static/js/2.79e2c193.chunk.js.LICENSE.txt",
     "static/media/App.css": "/dialogues-creator/static/media/bg.c37cc212.png"
   },
   "entrypoints": [
     "static/js/runtime-main.c4fc1ef8.js",
-    "static/js/2.d56068b6.chunk.js",
+    "static/js/2.79e2c193.chunk.js",
     "static/css/main.ebb4556e.chunk.css",
-    "static/js/main.d2f79171.chunk.js"
+    "static/js/main.7fc87ce8.chunk.js"
   ]
 }
